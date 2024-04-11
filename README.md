@@ -1,1 +1,1 @@
-Hello! I'm Leonardo Jesus, a student of Systems Analysis and Development at FATEC Ferraz de Vasconcelos. I'm passionate about technology and software development, constantly seeking to expand my knowledge and skills.
+Hello! I'm Leonardo Lima, a student of Systems Analysis and Development at FATEC Ferraz de Vasconcelos. I'm passionate about technology and software development, constantly seeking to expand my knowledge and skills.
