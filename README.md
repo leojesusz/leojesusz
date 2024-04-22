@@ -5,7 +5,7 @@ A student of Systems Analysis and Development at FATEC Ferraz de Vasconcelos. I'
 ## Interests
 
 - **Web Development:** Proficient in HTML and CSS, with experience in building responsive and visually appealing websites.
-- **Programming:** Currently learning Python and exploring its applications in various domains.
+- **Programming:** Currently learning Python and exploring its applications in various domains. Additionally, I have knowledge in PHP and MySQL, aiming to expand my skills in these fields.
 - **Open Source:** Enthusiastic about contributing to open-source projects and collaborating with the community.
 
 ## Skills
